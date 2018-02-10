@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitAndroid</string>
+    <string name="boton">Puchale aquí</string>
+    <string name="hola">Hola GitHub!</string>
 </resources>
