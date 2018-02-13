@@ -3,5 +3,8 @@
     <string name="boton">Puchale aquí</string>
     <string name="hola">Hola GitHub!</string>
     <string name="diplomado">Hola Diplomado Android!</string>
-    <string name="otroBoton">Otro botón</string>
+    <string name="otroBoton">Acá también</string>
+    <string name="descarga">Descarga imagen</string>
+    <string name="espera">Espera...</string>
+    <string name="descargada">Imagen descargada.</string>
 </resources>
